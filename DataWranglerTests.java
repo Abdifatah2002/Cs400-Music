@@ -1,8 +1,8 @@
 
 // --== CS400 Project Two File Header ==--
-// Name: Bailey Kau
-// CSL Username: kau
-// Email: bkau@wisc.edu
+// Name: Abdifatah Abdi
+// CSL Username: 
+// Email: aaabdi2@wisc.edu
 // Lecture #: 001 (Tuesday and Thursday at 9 am)
 // Notes to Grader: None
 import java.util.ArrayList;
